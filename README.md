@@ -1,5 +1,6 @@
 # Bitrise AI Agent Core Framework - Educational Version
-This repository contains a stripped-down version of Bitrise's internal AI agent framework, released for educational purposes. It is designed to complement this article: [TODO](TODO).
+This repository contains a stripped-down version of Bitrise's internal AI agent framework, released for educational purposes. It is designed to complement this article: [How we brought AI to the Bitrise Build Cloud
+](https://bitrise.io/blog/post/how-we-brought-ai-to-the-bitrise-build-cloud).
 
 # Example
 The `example` directory contains a simple example project demonstrating how to use the core framework. It consists of two sub-agents:
